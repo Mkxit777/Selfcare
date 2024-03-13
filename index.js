@@ -51,5 +51,5 @@ function getErrorMessage(error) {
 }
 
 function registrar(){
-    window.location.href = "selfcare.html";
+    window.location.href = "index.html";
 }
